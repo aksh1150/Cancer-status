@@ -1,0 +1,19 @@
+{
+	"name": "hybridlogic/classifier",
+	"description": "A Naive Bayesian classification library for PHP with support for different tokenizers to optimize string classification.",
+	"keywords": ["bayes", "classifier", "groups", "statistics", "tokenizer"],
+	"homepage": "https://github.com/Dachande663/PHP-Classifier",
+	"license": "MIT",
+	"authors": [{
+		"name": "Luke Lanchester",
+		"email": "luke@lukelanchester.com",
+		"homepage": "http://hybridlogic.co.uk",
+		"role": "Developer"
+	}],
+	"autoload": {
+		"psr-0": {"HybridLogic": "src/"}
+	},
+	"require": {
+		"php": ">=5.3.0"
+	}
+}

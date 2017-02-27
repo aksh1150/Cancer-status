@@ -1,0 +1,16 @@
+.form_border
+{
+    border: 1px solid;
+    border-radius:5px ;
+    padding: 10px;
+}
+.form_title
+{
+    background-color: rgb(230, 230, 230);
+    padding: 12px;
+}
+#top_header
+{
+    background-color: rgb(102, 175, 233);
+    height: 35px;
+}
